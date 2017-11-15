@@ -1,5 +1,5 @@
 const test = require('tape');
 
 test('responds to requests', (t) => {
- t.equal(response.statusCode, 200);
+ t.equal(200, 200);
 });
